@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665266055057",
+    "project_id": "sneakfix-01",
+    "storage_bucket": "sneakfix-01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665266055057:android:84a4fc64bcbb6ff55fdc30",
+        "android_client_info": {
+          "package_name": "com.bug2brilliance.sneakfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJsVpAVZn9WdGFydHx_FHxDQ10YTdUBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
